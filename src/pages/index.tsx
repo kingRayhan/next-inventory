@@ -1,5 +1,3 @@
-import React from "react";
-import { Button } from "@mantine/core";
 import AdminLayout from "@/components/layouts/AdminLayout";
 import { gql, useQuery } from "@apollo/client";
 
