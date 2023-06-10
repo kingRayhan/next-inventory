@@ -1,4 +1,4 @@
-import "@/styles/globals.css";
+import "@/styles/globals.scss";
 import { emotionCache } from "@/utils/emotionCache";
 import { MantineProvider } from "@mantine/core";
 import type { AppProps } from "next/app";
